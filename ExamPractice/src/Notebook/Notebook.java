@@ -10,6 +10,4 @@ public class Notebook
   {
     notes = new ArrayList<>(maxNumberOfNotes);
   }
-
-  public void add
 }
